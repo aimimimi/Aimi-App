@@ -1,0 +1,22 @@
+{
+  "name": "aimi",
+  "short_name": "aimi",
+  "description": "like Co-Star for lovers",
+  "start_url": "/aimi-app/",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#8b1a1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/8b1a1a/e8e0d0?text=a",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/8b1a1a/e8e0d0?text=a",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
